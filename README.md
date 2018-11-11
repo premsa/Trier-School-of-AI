@@ -1,2 +1,8 @@
-# Trier-School-of-AI
-Trier School of AI - Resources
+# Trier School of AI
+## Resources
+
+
+| Meetup         | Topic                         | Type |
+| ------------------ | -------------------------------- | ------------ |
+| [Introduction](meetups/1-Introduction)        | `First School of AI Event` | Class |
+|                    |                                  |              |     
