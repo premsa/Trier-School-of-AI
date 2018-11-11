@@ -4,5 +4,5 @@
 
 | Meetup         | Topic                         | Type |
 | ------------------ | -------------------------------- | ------------ |
-| [Introduction](meetups/1-Introduction)        | `First School of AI Event` | Class |
+| [Introduction](meetups/01-Introduction)        | `First School of AI Event` | Class |
 |                    |                                  |              |     
