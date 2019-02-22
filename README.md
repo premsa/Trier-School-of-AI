@@ -4,5 +4,5 @@
 
 | Meetup         | Topic                         | Type |
 | ------------------ | -------------------------------- | ------------ |
-| [Linear Regression](meetups/Linear Regression)        | `Linear Regresssion & Gradient Descent` | Lecture |
+| [Linear Regression](meetups/Linear&#32;Regression)        | `Linear Regresssion & Gradient Descent` | Lecture |
 |                    |                                  |              |     
