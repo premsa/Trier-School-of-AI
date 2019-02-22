@@ -4,5 +4,5 @@
 
 | Meetup         | Topic                         | Type |
 | ------------------ | -------------------------------- | ------------ |
-| [Introduction](meetups/01-Introduction)        | `First School of AI Event` | Class |
+| [Linear Regression](meetups/Linear Regression)        | `Linear Regresssion & Gradient Descent` | Lecture |
 |                    |                                  |              |     
